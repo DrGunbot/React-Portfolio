@@ -1,0 +1,50 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "A react based portfolio for Sean Fox",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrGunbot/React-Portfolio.git"
+  },
+  "keywords": [
+    "react",
+    "portfolio",
+    "resume",
+    "projects",
+    "web",
+    "development",
+    "frontend",
+    "UI",
+    "UX"
+  ],
+  "author": "Sean Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrGunbot/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/DrGunbot/React-Portfolio#readme",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.2"
+  }
+}

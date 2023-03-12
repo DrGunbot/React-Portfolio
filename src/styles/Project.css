@@ -1,0 +1,32 @@
+.project-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .project-links {
+    margin-bottom: 20px;
+  }
+  
+  .project-links a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px 15px;
+    color: #fff;
+    background-color: #333;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .project-screenshot {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
